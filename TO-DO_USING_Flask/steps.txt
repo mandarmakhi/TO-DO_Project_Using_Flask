@@ -1,0 +1,35 @@
+steps 1: Create  Flask folder 
+steps 1: Open Visual studio Code & Open the flask Folder
+steps 1: Create app.py file in Flask Folder 
+steps 1: Open Terminal 
+steps 1: In terminal Create Virtual envirment usin # pip install virtualenv
+steps 1: Then create env Folder using # virtualenv venv
+steps 1: Then Activate env # venv\scripts\activate
+steps 1: Then Install Flask # pip install Flask
+steps 1: Then Open app.py file
+steps 1: Then past hello world 
+         #code of hello world
+       from flask import Flask
+app = Flask(__name__)
+
+@app.route('/')
+def hello_world():
+   return 'Hello World’
+
+if __name__ == '__main__':
+   app.run()
+steps 1: If any python error aer their open the  # https://replit.com/
+steps 1: Then run the app.py file in terminal using # Python app.py
+steps 1: Debug mode
+         A Flask application is started by calling the run() method. However, while the application is under development, it should be restarted manually for each change in the code. To avoid this inconvenience, enable debug support. The server will then reload itself if the code changes. It will also provide a useful debugger to track the errors if any, in the application.
+         
+steps 1: Methods of Debug mode
+          #app.debug = True
+          #app.run()
+          #app.run(debug = True)
+steps 1:
+steps 1:
+steps 1:
+steps 1:
+steps 1:
+steps 1:
