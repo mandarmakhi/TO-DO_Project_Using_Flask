@@ -32,3 +32,5 @@
 ### srep 13: Then open first terimnal and run app.py file using this command 
              # python app.py
 ![alt text](https://github.com/mandarmakhi/TO-DO_Project_Using_Flask/blob/main/TO-DO_USING_Flask/Capture.PNG?raw=true)
+
+End Project
