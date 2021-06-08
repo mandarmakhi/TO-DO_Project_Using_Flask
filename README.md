@@ -16,7 +16,7 @@
 ### srep 5: In terminal Create Virtual envirment usin This command 
             # pip install virtualenv
 ### srep 6: Then create env Folder using This Command 
-            # virtualenv venv
+            # python -m virtualenv venv
 ### srep 7: Then Activate env using this command 
             # venv\scripts\activate
 ### srep 8: Then Install Flask 
